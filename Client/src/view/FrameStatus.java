@@ -1,0 +1,3 @@
+package view;
+
+public enum FrameStatus{AUTHENTICATION, MENU, PLAYER_INFO, SCORE_TABLE, SHIP_MAP, PLAYING, WATCHING}
